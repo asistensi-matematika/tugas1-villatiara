@@ -45,4 +45,10 @@ Nilai a tidak boleh = 0
 1. Diskriminan                  : 0
 2. Akar-akar dari polinomial    : NaN dan NaN
 
+SCREENSHOT HASIL RUN
+![villa1](https://user-images.githubusercontent.com/49522472/56495690-ba45b480-6520-11e9-9fc7-8ade5e423a92.jpg)
+![villa2](https://user-images.githubusercontent.com/49522472/56495696-bca80e80-6520-11e9-9622-d3d13975795d.jpg)
+![villa3](https://user-images.githubusercontent.com/49522472/56495697-bf0a6880-6520-11e9-8f6b-6bd876ccf889.jpg)
+![villa4](https://user-images.githubusercontent.com/49522472/56495703-c16cc280-6520-11e9-9dce-71867c223996.jpg)
+
 [link ke laporan]
